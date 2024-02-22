@@ -43,6 +43,3 @@ A lightweight To-Do List web application that helps you stay organized. Add, com
 
 ## Customization
 Feel free to customize the styles and layout by modifying the CSS file (`style.css`). The goal is to make it suit your preferences.
-
-## Contribution
-Contributions are welcome! If you have any ideas for improvement, find a bug, or want to add a new feature, please open an issue or submit a pull request.
